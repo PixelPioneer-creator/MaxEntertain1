@@ -32,8 +32,8 @@ export default function BlogPage() {
         </div>
 
         <div style={{ backgroundColor: "#1e293b", padding: "24px", borderRadius: "12px" }}>
-          <h3 style={{ color: "#f8fafc", marginBottom: "12px" }}>How GrabOn Deals Work With MaxEntertain</h3>
-          <p style={{ color: "#94a3b8", marginBottom: "16px" }}>We source our best 100% verified deals securely so you never deal with expired or false codes again.</p>
+          <h3 style={{ color: "#f8fafc", marginBottom: "12px" }}>How MaxEntertain Verifies Every Single Deal</h3>
+          <p style={{ color: "#94a3b8", marginBottom: "16px" }}>Our team manually checks every coupon and deal link to ensure you get the absolute best savings without any hassle.</p>
           <Link href="/blog/verified-deals" style={{ color: "#3b82f6", fontWeight: "600", textDecoration: "none", display: "inline-block" }}>Read More &rarr;</Link>
         </div>
       </div>
